@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'talker = rfid_pubsub.publisher_member_function:main',
-             'listener = rfid_pubsub.subscriber_member_function:main',
+            'listener = rfid_pubsub.subscriber_member_function:main',
+            'rfid_talker = rfid_pubsub.rfid_publish:main',
         ],
     },
 )

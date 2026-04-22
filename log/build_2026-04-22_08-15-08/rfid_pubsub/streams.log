@@ -1,0 +1,31 @@
+[0.993s] Invoking command in '/home/javier/rfid_read_ws/rfid_read_ws/src/rfid_pubsub': PYTHONPATH=/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rfid_pubsub build --build-base /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build install --record /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log --single-version-externally-managed install_data
+[1.382s] running egg_info
+[1.383s] writing ../../build/rfid_pubsub/rfid_pubsub.egg-info/PKG-INFO
+[1.383s] writing dependency_links to ../../build/rfid_pubsub/rfid_pubsub.egg-info/dependency_links.txt
+[1.384s] writing entry points to ../../build/rfid_pubsub/rfid_pubsub.egg-info/entry_points.txt
+[1.384s] writing requirements to ../../build/rfid_pubsub/rfid_pubsub.egg-info/requires.txt
+[1.384s] writing top-level names to ../../build/rfid_pubsub/rfid_pubsub.egg-info/top_level.txt
+[1.387s] reading manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+[1.388s] adding license file 'LICENSE'
+[1.389s] writing manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.389s] copying rfid_pubsub/rfid_publish.py -> /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+[1.389s] copying rfid_pubsub/publisher_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+[1.390s] running install
+[1.390s] running install_lib
+[1.392s] copying /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub/rfid_publish.py -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+[1.392s] copying /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub/publisher_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+[1.393s] byte-compiling /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub/rfid_publish.py to rfid_publish.cpython-310.pyc
+[1.394s] byte-compiling /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.395s] running install_data
+[1.395s] copying package.xml -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/rfid_pubsub
+[1.396s] running install_egg_info
+[1.399s] removing '/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.399s] Copying ../../build/rfid_pubsub/rfid_pubsub.egg-info to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub-0.0.0-py3.10.egg-info
+[1.401s] running install_scripts
+[1.437s] Installing listener script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+[1.437s] Installing rfid_talker script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+[1.437s] Installing talker script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+[1.438s] writing list of installed files to '/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log'
+[1.471s] Invoked command in '/home/javier/rfid_read_ws/rfid_read_ws/src/rfid_pubsub' returned '0': PYTHONPATH=/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rfid_pubsub build --build-base /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build install --record /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log --single-version-externally-managed install_data
