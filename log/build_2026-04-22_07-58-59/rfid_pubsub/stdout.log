@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/rfid_pubsub/rfid_pubsub.egg-info
+writing ../../build/rfid_pubsub/rfid_pubsub.egg-info/PKG-INFO
+writing dependency_links to ../../build/rfid_pubsub/rfid_pubsub.egg-info/dependency_links.txt
+writing entry points to ../../build/rfid_pubsub/rfid_pubsub.egg-info/entry_points.txt
+writing requirements to ../../build/rfid_pubsub/rfid_pubsub.egg-info/requires.txt
+writing top-level names to ../../build/rfid_pubsub/rfid_pubsub.egg-info/top_level.txt
+writing manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+reading manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build
+creating /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib
+creating /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+copying rfid_pubsub/subscriber_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+copying rfid_pubsub/publisher_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+copying rfid_pubsub/__init__.py -> /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub
+running install
+running install_lib
+creating /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+copying /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub/subscriber_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+copying /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub/publisher_member_function.py -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+copying /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build/lib/rfid_pubsub/__init__.py -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub
+byte-compiling /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+byte-compiling /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+byte-compiling /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/ament_index
+creating /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/ament_index/resource_index
+creating /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/ament_index/resource_index/packages
+copying resource/rfid_pubsub -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/ament_index/resource_index/packages
+copying package.xml -> /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/share/rfid_pubsub
+running install_egg_info
+Copying ../../build/rfid_pubsub/rfid_pubsub.egg-info to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+Installing talker script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+writing list of installed files to '/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log'

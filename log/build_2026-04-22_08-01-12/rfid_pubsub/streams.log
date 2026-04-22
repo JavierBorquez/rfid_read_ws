@@ -1,0 +1,23 @@
+[0.943s] Invoking command in '/home/javier/rfid_read_ws/rfid_read_ws/src/rfid_pubsub': PYTHONPATH=/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rfid_pubsub build --build-base /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build install --record /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log --single-version-externally-managed install_data
+[1.331s] running egg_info
+[1.332s] writing ../../build/rfid_pubsub/rfid_pubsub.egg-info/PKG-INFO
+[1.332s] writing dependency_links to ../../build/rfid_pubsub/rfid_pubsub.egg-info/dependency_links.txt
+[1.332s] writing entry points to ../../build/rfid_pubsub/rfid_pubsub.egg-info/entry_points.txt
+[1.333s] writing requirements to ../../build/rfid_pubsub/rfid_pubsub.egg-info/requires.txt
+[1.333s] writing top-level names to ../../build/rfid_pubsub/rfid_pubsub.egg-info/top_level.txt
+[1.336s] reading manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+[1.336s] adding license file 'LICENSE'
+[1.338s] writing manifest file '../../build/rfid_pubsub/rfid_pubsub.egg-info/SOURCES.txt'
+[1.338s] running build
+[1.338s] running build_py
+[1.338s] running install
+[1.339s] running install_lib
+[1.341s] running install_data
+[1.341s] running install_egg_info
+[1.344s] removing '/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.344s] Copying ../../build/rfid_pubsub/rfid_pubsub.egg-info to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages/rfid_pubsub-0.0.0-py3.10.egg-info
+[1.346s] running install_scripts
+[1.374s] Installing listener script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+[1.375s] Installing talker script to /home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/rfid_pubsub
+[1.375s] writing list of installed files to '/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log'
+[1.405s] Invoked command in '/home/javier/rfid_read_ws/rfid_read_ws/src/rfid_pubsub' returned '0': PYTHONPATH=/home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/javier/rfid_read_ws/rfid_read_ws/install/rfid_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rfid_pubsub build --build-base /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/build install --record /home/javier/rfid_read_ws/rfid_read_ws/build/rfid_pubsub/install.log --single-version-externally-managed install_data
